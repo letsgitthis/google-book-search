@@ -34,7 +34,6 @@ class Search extends Component {
             .catch(err => console.log(err))
     };
 
-    // Much of the below code is derived from 20-MERN\01-Activities\02-Stu_Recipes\Unsolved\client\src\App.js
     render() {
         return (
             <div>

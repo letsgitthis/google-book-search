@@ -1,5 +1,3 @@
-// Code derived from 20-MERN\01-Activities\05-Stu_ReactRouter\Solved\controllers\booksController.js
-// Exports functions to: routes\index.js
 const db = require("../models");
 
 module.exports = {
